@@ -1,3 +1,6 @@
+'''
+通过图片路径生成一个coco格式的空标签文件，用于测试并保存测试结果
+'''
 import os, csv
 from tqdm import tqdm
 import pandas as pd
