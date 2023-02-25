@@ -4,7 +4,7 @@ The sixth place winning solution (7/147) in the Object Recognition in  Sar Image
 
 
 ## Members
-[Caihua kong](https://github.com/ming71),  [Longgang Dai](https://github.com/sunny-sjj), [Zhentao Fan](https://github.com/OOLLcnm).
+[Caihua kong](https://github.com/kongyan66),  [Longgang Dai](https://github.com/dailonggang), [Zhentao Fan](https://github.com/zt-fan), [Xiang Chen](https://github.com/cschenxiang).
 
 
 ## Solution
