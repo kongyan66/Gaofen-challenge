@@ -1,10 +1,9 @@
 # Gaofen Challenge
 
-The fifth winning solution (5/152) in the Object Recognition in  Sar Images and third place in the final, 2021 Gaofen Challenge on Automated High-Resolution Earth Observation Image Interpretation. 
+The fifth winning solution (5/152) in the Object Recognition in  Sar Images, 2021 Gaofen Challenge on Automated High-Resolution Earth Observation Image Interpretation. 
 
 ![image-20230327142923716](https://raw.githubusercontent.com/kongyan66/Img-for-md/master/img/image-20230327142923716.png#pic_center)
 
-![image-20230327152616143](https://raw.githubusercontent.com/kongyan66/Img-for-md/master/img/image-20230327152616143.png)
 
 ## Members
 
