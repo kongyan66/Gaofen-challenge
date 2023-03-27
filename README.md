@@ -13,7 +13,7 @@ The fifth winning solution (5/152) in the Object Recognition in  Sar Images, 202
 
 * **On-line date augmentation**  
   We use random combination of affine transformation, flip, scaling, optical distortion for data augmentation.
-* **copy-paste off-line data augmention**
+* **Copy-Paste off-line data augmention**
 * **Multi-scale training and testing**    
   The training images are resized into sizes of 600, 800, and 1024 for training and testing.
 
