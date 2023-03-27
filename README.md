@@ -1,10 +1,8 @@
 # Gaofen Challenge
 
-Golinning solution (3/152) in the Object Recognition in  Sar Images, 2021 Gaofen Challenge on Automated High-Resolution Earth Observation Image Interpretation. 
+The fifth winning solution (5/152) in the Object Recognition in  Sar Images, 2021 Gaofen Challenge on Automated High-Resolution Earth Observation Image Interpretation. 
 
 ![image-20230327142923716](https://raw.githubusercontent.com/kongyan66/Img-for-md/master/img/image-20230327142923716.png#pic_center)
-
-
 
 ## Members
 
@@ -21,6 +19,21 @@ Golinning solution (3/152) in the Object Recognition in  Sar Images, 2021 Gaofen
 
 * **WBF**
 * **PPYOLOE**
+
+## Experiment
+
+|   版本号   | val@mAP |  test@mAP   | val@time(s)/TTA | test@time(s) |
+| :--------: | :-----: | :---------: | :-------------: | :----------: |
+|  V1.0.13   |    -    |   70.3977   |        -        |     764      |
+|   v2.2.2   |  71.30  |   67.3279   |      67.32      |     175      |
+|   v2.2.4   |  76.31  |   67.9190   |       82        |     125      |
+|   v2.2.5   |  78.60  |      -      |       33        |     None     |
+|   v2.2.6   |    -    |   67.5479   |       80        |  121(x1.5)   |
+|   v2.2.7   |  80.7   |   68.4315   |     40(68s)     |     127      |
+|   v2.2.8   |   86    |   69.7269   |     31(74s)     |  146(x1.9)   |
+| **v2.2.9** |  83.7   | **67.6951** |     29(83)      |      57      |
+
+For detailed records, please refer to the `experiment.md`
 
 ## How to use
 
@@ -48,4 +61,4 @@ Golinning solution (3/152) in the Object Recognition in  Sar Images, 2021 Gaofen
 
 ## Detections
 
-![image-20230327143233229](https://raw.githubusercontent.com/kongyan66/Img-for-md/master/img/image-20230327143233229.png)
+![image-20230327150201155](https://raw.githubusercontent.com/kongyan66/Img-for-md/master/img/image-20230327150201155.png)
